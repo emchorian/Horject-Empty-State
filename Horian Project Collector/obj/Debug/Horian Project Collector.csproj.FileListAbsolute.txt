@@ -1,0 +1,74 @@
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\bin\Debug\Horian Project Collector.exe.config
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.csprojResolveAssemblyReference.cache
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector.Anasayfa.resources
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector.Properties.Resources.resources
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.GenerateResource.Cache
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\bin\Debug\Horian Project Collector.exe
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\bin\Debug\Horian Project Collector.pdb
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._1.resources
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._2.resources
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._3.resources
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.exe
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.pdb
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._4.resources
+D:\2287 Emir Bayat\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._5.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\bin\Debug\Horian Project Collector.exe.config
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\bin\Debug\Horian Project Collector.exe
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\bin\Debug\Horian Project Collector.pdb
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.AssemblyReference.cache
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._1.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._2.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._3.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._4.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._5.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector.Anasayfa.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector.Properties.Resources.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.GenerateResource.cache
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.CoreCompileInputs.cache
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.exe
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian Project Collector.pdb
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._10.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._11.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._12.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._13.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._14.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._15.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._16.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._17.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._18.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._19.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._20.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._6.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._7.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._8.resources
+C:\Users\emchorian\Desktop\Horian Project Collector\Horian Project Collector\obj\Debug\Horian_Project_Collector._9.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\bin\Debug\Horian Project Collector.exe.config
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\bin\Debug\Horian Project Collector.exe
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\bin\Debug\Horian Project Collector.pdb
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.AssemblyReference.cache
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._1.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._10.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._11.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._12.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._13.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._14.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._15.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._16.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._17.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._18.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._19.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._2.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._20.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._3.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._4.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._5.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._6.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._7.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._8.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector._9.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector.Anasayfa.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian_Project_Collector.Properties.Resources.resources
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.GenerateResource.cache
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian Project Collector.csproj.CoreCompileInputs.cache
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian Project Collector.exe
+C:\Users\emchorian\Desktop\Horject - Empty State\Horian Project Collector\obj\Debug\Horian Project Collector.pdb
